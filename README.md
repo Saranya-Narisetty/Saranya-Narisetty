@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sree Saranya Narisetty</h1>
 <h3 align="center">🌍 "I translate complexity into simplicity, trends into truths, and data into direction."</h3>
-
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16116886-Data-Inform-Illustration-Animation-Gif-Json&psig=AOvVaw00efTM-idCpnc0AnOpCttY&ust=1737574331050000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLi066LHh4sDFQAAAAAdAAAAABAI">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saranya-narisetty&label=Profile%20views&color=0e75b6&style=flat" alt="saranya-narisetty" /> </p>
 
 - 📫 How to reach me **narisetty.saranya@gmail.com**
